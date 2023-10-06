@@ -1,0 +1,17 @@
+2023-10-02 21:35:26 OpenVPN 2.5.7 Windows-MSVC [SSL (OpenSSL)] [LZO] [LZ4] [PKCS11] [AEAD] built on May 27 2022
+2023-10-02 21:35:26 Windows version 10.0 (Windows 10 or greater) 64bit
+2023-10-02 21:35:26 library versions: OpenSSL 1.1.1o  3 May 2022, LZO 2.10
+2023-10-02 21:35:28 TCP/UDP: Preserving recently used remote address: [AF_INET]74.201.101.132:1250
+2023-10-02 21:35:28 UDP link local (bound): [AF_INET][undef]:1194
+2023-10-02 21:35:28 UDP link remote: [AF_INET]74.201.101.132:1250
+2023-10-02 21:35:29 [telconnect.verscom] Peer Connection Initiated with [AF_INET]74.201.101.132:1250
+2023-10-02 21:35:29 open_tun
+2023-10-02 21:35:29 tap-windows6 device [OpenVPN TAP-Windows6] opened
+2023-10-02 21:35:29 Set TAP-Windows TUN subnet mode network/local/netmask = 172.30.4.160/172.30.4.163/255.255.255.240 [SUCCEEDED]
+2023-10-02 21:35:29 Notified TAP-Windows driver to set a DHCP IP/netmask of 172.30.4.163/255.255.255.240 on interface {E68568B5-D9CA-4AA4-AFF5-4E0970224DC2} [DHCP-serv: 172.30.4.160, lease-time: 31536000]
+2023-10-02 21:35:29 Successful ARP Flush on interface [18] {E68568B5-D9CA-4AA4-AFF5-4E0970224DC2}
+2023-10-02 21:35:30 IPv4 MTU set to 1500 on interface 18 using service
+2023-10-02 21:35:35 WARNING: this configuration may cache passwords in memory -- use the auth-nocache option to prevent this
+2023-10-02 21:35:35 Initialization Sequence Completed
+2023-10-03 00:21:57 SIGTERM received, sending exit notification to peer
+2023-10-03 00:21:59 SIGTERM[soft,exit-with-notification] received, process exiting

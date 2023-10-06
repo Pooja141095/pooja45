@@ -1,0 +1,51 @@
+Resources:
+https://www.freecodecamp.org/news/set-and-map-in-javascript/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set
+https://www.geeksforgeeks.org/linear-search-vs-binary-search/
+
+MUST WATCH :- https://youtu.be/V_T5NuccwRA
+
+1. Write a code for linear & binary search.
+
+OTHER ASSIGNMENTS
+
+Question 1: Map Basics
+Create a JavaScript program that uses a Map to store the names of five countries as keys and their corresponding capitals as values. Print out the names of all the countries and their capitals stored in the Map.
+
+Question 2: Set Deduplication
+Write a JavaScript program that takes an array of numbers as input and uses a Set to remove duplicates from the array. After removing duplicates, print the elements of the Set.
+
+Question 3: Map Operations
+Implement a JavaScript program that demonstrates the following operations on a Map:
+
+Add three key-value pairs to the Map.
+Print the keys and values in the Map.
+Check if a specific key exists in the Map.
+Remove one key-value pair from the Map.
+
+Question 4: Set Set Operations
+Create a JavaScript program that creates two Sets, one for storing even numbers between 1 and 10, and another for storing odd numbers between 1 and 10. Perform the following set operations:
+
+Find the union of the two sets.
+Find the intersection of the two sets.
+Find the elements that are only in the even numbers set.
+Find the elements that are only in the odd numbers set.
+
+Question 5: Map Iteration
+Write a JavaScript program that uses a Map to store the names of fruits as keys and their corresponding colors as values. Write a loop to iterate through the Map and print out each fruit's name and color.
+
+Question 6: Set Size and Clear
+Create a JavaScript program that demonstrates the use of the Set's size property and clear() method. Create a Set of integers, add some elements to it, print its size, and then clear the Set. Print its size again to confirm that it's empty.
+
+Question 7: Map Value Update
+Implement a JavaScript program that uses a Map to store the names of cities as keys and their populations as values. Write a function that updates the population of a given city. Print the updated population of the city after the update.
+
+Question 8: Set Contains
+Create a JavaScript program that uses a Set to store the names of five programming languages. Implement a function that checks if a given programming language name exists in the Set and returns a boolean value.
+
+Question 9: Map Keys and Values
+Write a JavaScript program that uses a Map to store the names of countries as keys and their official languages as values. Print out the keys and values of the Map separately.
+
+Question 10: Set Remove
+Create a JavaScript program that uses a Set to store the names of colors. Implement a function to remove a specific color from the Set and print the updated set of colors.

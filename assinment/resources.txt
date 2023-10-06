@@ -1,0 +1,11 @@
+Resources:
+https://www.freecodecamp.org/news/objects-in-javascript-for-beginners/
+
+this:
+    1. https://www.youtube.com/watch?v=gvicrj31JOM&pp=ygUTdGhpcyBpbiBqYXZhc2NyaXB0IA%3D%3D
+    2. https://www.youtube.com/watch?v=LEw0hswTots&pp=ygUTdGhpcyBpbiBqYXZhc2NyaXB0IA%3D%3D
+
+objects:
+    https://www.youtube.com/watch?v=LgZZLeWKGsI&pp=ygUNb2JqZWN0cyBpbiBqcw%3D%3D
+    https://www.freecodecamp.org/news/destructuring-patterns-javascript-arrays-and-objects/
+    https://www.freecodecamp.org/news/javascript-object-destructuring-spread-operator-rest-parameter/

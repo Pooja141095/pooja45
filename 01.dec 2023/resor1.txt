@@ -1,0 +1,20 @@
+PROJECT:-
+https://docs.google.com/document/d/1dVE4W2vdn8W0keN_A0IaV3BZakvwNnF6RBI357Ri1eY/edit
+
+STACK:-
+https://www.youtube.com/watch?v=whYm5cqigL8&pp=ygULc3RhY2sgaW4gZHM%3D
+
+QUEUE:-
+https://www.youtube.com/watch?v=zp6pBNbUB2U&pp=ygULcXVldWUgaW4gZHM%3D
+
+RESOURCES:-
+Callback Function:- https://www.freecodecamp.org/news/what-is-a-callback-function-in-javascript/
+
+MultiProcessing:-
+https://www.youtube.com/watch?v=LOfGJcVnvAk&pp=ygUccHJvY2VzcyBhbmQgdGhyZWFkIGV4cGxhaW5lZA%3D%3D
+https://www.youtube.com/watch?v=hN2Yrf4tqTY&pp=ygUccHJvY2VzcyBhbmQgdGhyZWFkIGV4cGxhaW5lZA%3D%3D
+https://www.youtube.com/watch?v=4rLW7zg21gI&pp=ygUccHJvY2VzcyBhbmQgdGhyZWFkIGV4cGxhaW5lZA%3D%3D
+https://youtu.be/pIjfzjsoVw4
+
+Synchrnous & Asynchrnous:- 
+https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/
