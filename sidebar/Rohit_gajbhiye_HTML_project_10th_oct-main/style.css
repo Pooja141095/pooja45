@@ -96,20 +96,20 @@ header {
 
 }
 
-.p2 {
+.c2 {
     position: absolute;
     right: 8rem;
     top: .3rem;
 }
 
-.p1 {
+.c1 {
     position: absolute;
     right: 12rem;
     top: .3rem;
     z-index: 1;
 }
 
-.p1 h4 {
+.c1 h4 {
     margin-left: 8px;
     margin-top: 2px;
 }
