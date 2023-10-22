@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <script src="./script.js"></script>
+    <title>Interactive Gallery</title>
+</head>
+<body>
+    <div class="gallery">
+        <img src="image1.jpg" id="image1" onclick="showRegistrationForm()">
+        <img src="image2.jpg" id="image2" onclick="displayUserInfo()">
+        <img src="dice3.jpg" id="image3" onclick="rollDice()">
+        <img src="image4.avif" id="image4" onclick="generateCoupon()">
+    </div>
+    
+    <div id="form" class="hidden">
+        <h3>Register Yourself</h3>
+        <form id="registrationForm" onsubmit="registerUser(event)">
+            <input type="text" placeholder="Name" id="name" required>
+            <input type="email" placeholder="Email" id="email" required>
+            <input type="text" placeholder="Username" id="username" required>
+            <input type="submit" value="Register">
+        </form>
+    </div>
+    <div id="message" class="hidden">
+        <p id="messageText"></p>
+    </div>
+    <div id="congratulation" class="hidden">
+        <img src="congratulation.jpg" alt="Congratulation">
+    </div>
+</body>
+</html>
