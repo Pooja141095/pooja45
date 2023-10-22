@@ -1,0 +1,4 @@
+Resources:-
+https://www.freecodecamp.org/news/an-introduction-to-the-javascript-dom-512463dd62ec/
+https://www.freecodecamp.org/news/dom-explained-everything-you-need-to-know-about-the-document-object-model/
+https://www.youtube.com/watch?v=YAdLFsTG70w&pp=ygUSdHJlZSBpbiBkc2EgYmFzaWNz
